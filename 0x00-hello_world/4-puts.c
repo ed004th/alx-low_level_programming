@@ -2,12 +2,11 @@
 /**
  * main - print using puts
  *
- *Return:0
+ * Return: 0
  *
 */
 int main(void)
 {
-	puts("\"programming is like building a multingual puzzle\n");
+	puts("\"Programming is like building a multilingual puzzle\n");
 	return (0);
 }
-
