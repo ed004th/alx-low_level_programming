@@ -1,5 +1,5 @@
 #include "main.h"
-/*
+/**
  * print_alphabet_x10 - entry point
  *Description: print 10 times the alhabet in lowercase.
 */
