@@ -2,9 +2,9 @@
 
 /**
  * swap_int - a function that swap the value of two integers
- * @a - char to be checked
- * @b - char to be checked
- *
+ * @a: first int
+ * @b: second int
+ * Return: 0
 */
 void swap_int(int *a, int *b)
 {
