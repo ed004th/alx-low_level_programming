@@ -1,15 +1,18 @@
 #include "main.h"
 /**
  * _puts - a function that prints a string followed by a newline
- * @str - char to checked
+ * @str: string to checked
  *
+ * Return: length of the string
 */
 void _puts(char *str)
 {
-	int index
-		for (index = 0; str[index] != '\0'; index++)
+	int b = 0;
+
+		while (str[b] != '\0')
 		{
-			_putchar (str[index]);
+			_putchar(str[b]);
+			b++;
 		}
-	_putchar ('\n');
+	_putchar('\n');
 }
